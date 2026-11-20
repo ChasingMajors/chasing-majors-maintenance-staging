@@ -3,5 +3,5 @@
   "code": "stage_2026_topps_baseball",
   "label": "Blue Parallel",
   "serial_limit": 100,
-  "case": "success"
+  "case": "rollback"
 }
