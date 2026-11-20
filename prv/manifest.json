@@ -1,0 +1,7 @@
+{
+  "environment": "synthetic-maintenance-staging",
+  "code": "stage_2026_topps_baseball",
+  "label": "Blue",
+  "serial_limit": 100,
+  "case": "baseline"
+}
