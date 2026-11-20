@@ -1,0 +1,23 @@
+{
+  "before_rows": 179,
+  "after_rows": 179,
+  "added": [
+    "Base\u0000BCP-19\u0000Randy De Jesus\u0000Angels",
+    "Base\u0000BCP-64\u0000Zach Neto\u0000Angels",
+    "Base\u0000BCP-123\u0000Jorge Ruiz\u0000Angels",
+    "Base\u0000BCP-132\u0000Nelson Rada\u0000Angels",
+    "Base\u0000BCP-143\u0000Dylan O'Rae\u0000Milwaukee Brewers",
+    "Autograph\u0000BSPA-JR\u0000Jorge Ruiz\u0000Angels",
+    "Autograph\u0000BSPA-ZN\u0000Zach Neto\u0000Angels"
+  ],
+  "removed": [
+    "Base\u0000BCP-19\u0000Randy De Jesus\u0000Los Angeles Angels",
+    "Base\u0000BCP-64\u0000Zach Neto\u0000Los Angeles Angels",
+    "Base\u0000BCP-123\u0000Jorge Ruiz\u0000Los Angeles Angels",
+    "Base\u0000BCP-132\u0000Nelson Rada\u0000Los Angeles Angels",
+    "Base\u0000BCP-143\u0000Dylan O’Rae\u0000Milwaukee Brewers",
+    "Autograph\u0000BSPA-JR\u0000Jorge Ruiz\u0000Los Angeles Angels",
+    "Autograph\u0000BSPA-ZN\u0000Zach Neto\u0000Los Angeles Angels"
+  ],
+  "source_refresh": true
+}

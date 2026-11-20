@@ -1,0 +1,25 @@
+{
+  "schema": "cm-prv-held-report/1",
+  "title": "2023 Bowman Sapphire Baseball — authoritative staging",
+  "cv_code": "2023_bowman_sapphire_edition_baseball",
+  "source": {
+    "kind": "artifact",
+    "project_id": "prl_staging-bowman-sapphire-2023",
+    "revision_id": "stage-00f903f8e0ca1d20592ea5a0"
+  },
+  "model_version": "weighted-median-v1",
+  "engine_sha256": "6cdac98700c0f07d479532729a9515fe4e59f157e237570bd628c731aece3709",
+  "rule": {
+    "name": "leave-one-anchor-out stability",
+    "max_relative_change": 0.05,
+    "anchors_tested": 12,
+    "invalid_refits": [],
+    "relic_handling": "hold"
+  },
+  "counts": {
+    "rows": 13,
+    "publishable": 13,
+    "held": 0
+  },
+  "held": []
+}

@@ -1,0 +1,9 @@
+{
+  "schema_version": 1,
+  "scope": "staging-only",
+  "products": {
+    "2023_bowman_sapphire_edition_baseball": {
+      "input_sha256": "55582d8614846009812259110216a200095d13aa63569cca5a11b79f7f964010"
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "schema_version": 1,
+  "environment": "authoritative-maintenance-staging",
+  "production_write_enabled": false,
+  "code": "2023_bowman_sapphire_edition_baseball",
+  "files": {
+    "cv-product.json": "56fb50d056b64f41953800d96ba678e3ac60f09618ad3670c777bc376464d311",
+    "lab-result.json": "7692128a7f2cde065c3be2ae069a01f6f5bf8495a37a76528961359ec61d11e2",
+    "prv-input.json": "0c714e55f9a4dfef626bc7d8aee7915212c0fd4d36866e72675d23709fdb8fe9",
+    "prv-product.json": "ebe8d61dc9654086cfcae7592f40f59a92089dca9578a33c5a33eb3185c94c51",
+    "discrepancy.json": "7a39c3e288261d3bc86392c2be0c52961df2de9c530dca75899a70920969534e",
+    "held-rows.json": "b9a96e7d700b04fdaac9f49ec7adce431882cf28926e359440b126d0d33c5573",
+    "cv-changes.json": "161e52c4483d76acd16db194ed6af0227fa6ed89ca3c9ae05b4362651e9d8f73",
+    "admission.json": "deb678004e9237e3dc70b8705dd9476672400d7d8669fd4c063638ca494dd57d"
+  },
+  "project_id": "prl_staging-bowman-sapphire-2023",
+  "revision_id": "stage-00f903f8e0ca1d20592ea5a0",
+  "engine_sha256": "6cdac98700c0f07d479532729a9515fe4e59f157e237570bd628c731aece3709",
+  "served_contract": "actual shared build-vault-data output",
+  "coverage_gaps": [
+    {
+      "subset": "ordinary Base Sapphire",
+      "reason": "No official published pack odds; no print-run estimate invented"
+    }
+  ]
+}

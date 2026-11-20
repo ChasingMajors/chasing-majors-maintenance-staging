@@ -1,0 +1,742 @@
+{
+  "schema_version": 2,
+  "meta": {
+    "code": "2023_bowman_sapphire_edition_baseball",
+    "displayName": "2023 Bowman Sapphire Baseball",
+    "keywords": "2023 Bowman Sapphire Baseball, Bowman Sapphire Baseball 2023, 2023 Bowman Sapphire cards, Bowman Sapphire baseball cards 2023, 2023 Bowman Sapphire MLB prospects, Bowman Sapphire prospects 2023, Bowman Sapphire chrome cards 2023, 2023 Bowman Sapphire rookie cards, Bowman Sapphire rookies 2023, Bowman Sapphire 1st Bowman cards 2023, Bowman Sapphire autos 2023, Bowman Sapphire autographs 2023, Bowman Sapphire parallels 2023, Bowman Sapphire refractors 2023, Sapphire edition prospect cards 2023 Bowman, Bowman Sapphire inserts 2023, Bowman Sapphire superfractor 2023, premium prospect baseball cards 2023 Bowman, Bowman Sapphire Baseball checklist 2023, Bowman Sapphire checklist",
+    "year": "2023",
+    "manufacturer": "Bowman",
+    "product": "Sapphire",
+    "sport": "baseball"
+  },
+  "rows": [
+    {
+      "id": "2023_bowman_sapphire_edition_baseball:lab:o0",
+      "product_id": "2023_bowman_sapphire_edition_baseball",
+      "group_id": "2023_bowman_sapphire_edition_baseball:base:base-sapphire-chrome-prospects-base-cards-aqua-sapphire:unnumbered",
+      "category": "Base",
+      "set_name": "Base Sapphire Chrome Prospects \u2014 Base Cards Aqua Sapphire",
+      "section": "Base",
+      "measurement": {
+        "value": 54.52,
+        "kind": "estimate",
+        "unit": "cards",
+        "scope": "per_card"
+      },
+      "serial_limit": null,
+      "checklist_size": 150,
+      "notes": "Provisional authoritative Print Run Lab estimate; unrounded, not manufacturer-confirmed. Nominal numbered ceilings are separate evidence; checklist-wide equal-production assumption may not describe each subject.",
+      "source": {
+        "url": "https://chasingmajors.github.io/chasing-majors-maintenance-staging/authoritative-prv/2023_bowman_sapphire_edition_baseball/lab-result.json",
+        "checklist_url": "https://cdn.shopify.com/s/files/1/0662/9749/5709/files/2023BowmanSapphireBaseballChecklist.pdf",
+        "odds_url": "https://cdn.shopify.com/s/files/1/0662/9749/5709/files/2023_Bowman_Sapphire_Edition_Odds.pdf"
+      },
+      "issues": [],
+      "raw": {
+        "code": "2023_bowman_sapphire_edition_baseball",
+        "setType": "Base",
+        "setLine": "Base Sapphire Chrome Prospects",
+        "parallel": "Base Cards Aqua Sapphire",
+        "printRun": 54.52,
+        "serial": "",
+        "subSetSize": 150,
+        "notes": "Provisional authoritative Print Run Lab estimate; unrounded, not manufacturer-confirmed. Nominal numbered ceilings are separate evidence; checklist-wide equal-production assumption may not describe each subject.",
+        "cmURL": "https://chasingmajors.github.io/chasing-majors-maintenance-staging/authoritative-prv/2023_bowman_sapphire_edition_baseball/lab-result.json"
+      },
+      "official_serial_limit": 55,
+      "calculation": {
+        "authority": "Print Run Lab",
+        "project_id": "prl_staging-bowman-sapphire-2023",
+        "revision_id": "stage-00f903f8e0ca1d20592ea5a0",
+        "snapshot_sha256": "9c1375a885934f8a346bcced0309bd9c534e3fb476d7ed9855f3d6e90ab32cb3",
+        "result_row_id": "o0",
+        "model": {
+          "version": "weighted-median-v1",
+          "engine_sha256": "6cdac98700c0f07d479532729a9515fe4e59f157e237570bd628c731aece3709"
+        },
+        "assumptions": "Default model: each format\u2019s pack total is the WEIGHTED MEDIAN of its numbered anchors\u2019 implied packs (implied packs = eligible subjects \u00d7 serial \u00d7 odds, less any fixed-format contribution), weighted by each anchor\u2019s influence so base/insert anchors outweigh autograph/memorabilia. Each parallel\u2019s estimate = packs \u00f7 odds \u00f7 eligible subjects. A dash means unavailable; anchors with an infeasible implied pool are excluded. These are estimates from published odds anchored on known serial numbers, not manufacturer-confirmed totals."
+      }
+    },
+    {
+      "id": "2023_bowman_sapphire_edition_baseball:lab:o1",
+      "product_id": "2023_bowman_sapphire_edition_baseball",
+      "group_id": "2023_bowman_sapphire_edition_baseball:base:base-sapphire-chrome-prospects-base-cards-green-sapphire:unnumbered",
+      "category": "Base",
+      "set_name": "Base Sapphire Chrome Prospects \u2014 Base Cards Green Sapphire",
+      "section": "Base",
+      "measurement": {
+        "value": 60.577777777777776,
+        "kind": "estimate",
+        "unit": "cards",
+        "scope": "per_card"
+      },
+      "serial_limit": null,
+      "checklist_size": 150,
+      "notes": "Provisional authoritative Print Run Lab estimate; unrounded, not manufacturer-confirmed. Nominal numbered ceilings are separate evidence; checklist-wide equal-production assumption may not describe each subject.",
+      "source": {
+        "url": "https://chasingmajors.github.io/chasing-majors-maintenance-staging/authoritative-prv/2023_bowman_sapphire_edition_baseball/lab-result.json",
+        "checklist_url": "https://cdn.shopify.com/s/files/1/0662/9749/5709/files/2023BowmanSapphireBaseballChecklist.pdf",
+        "odds_url": "https://cdn.shopify.com/s/files/1/0662/9749/5709/files/2023_Bowman_Sapphire_Edition_Odds.pdf"
+      },
+      "issues": [],
+      "raw": {
+        "code": "2023_bowman_sapphire_edition_baseball",
+        "setType": "Base",
+        "setLine": "Base Sapphire Chrome Prospects",
+        "parallel": "Base Cards Green Sapphire",
+        "printRun": 60.577777777777776,
+        "serial": "",
+        "subSetSize": 150,
+        "notes": "Provisional authoritative Print Run Lab estimate; unrounded, not manufacturer-confirmed. Nominal numbered ceilings are separate evidence; checklist-wide equal-production assumption may not describe each subject.",
+        "cmURL": "https://chasingmajors.github.io/chasing-majors-maintenance-staging/authoritative-prv/2023_bowman_sapphire_edition_baseball/lab-result.json"
+      },
+      "official_serial_limit": 60,
+      "calculation": {
+        "authority": "Print Run Lab",
+        "project_id": "prl_staging-bowman-sapphire-2023",
+        "revision_id": "stage-00f903f8e0ca1d20592ea5a0",
+        "snapshot_sha256": "9c1375a885934f8a346bcced0309bd9c534e3fb476d7ed9855f3d6e90ab32cb3",
+        "result_row_id": "o1",
+        "model": {
+          "version": "weighted-median-v1",
+          "engine_sha256": "6cdac98700c0f07d479532729a9515fe4e59f157e237570bd628c731aece3709"
+        },
+        "assumptions": "Default model: each format\u2019s pack total is the WEIGHTED MEDIAN of its numbered anchors\u2019 implied packs (implied packs = eligible subjects \u00d7 serial \u00d7 odds, less any fixed-format contribution), weighted by each anchor\u2019s influence so base/insert anchors outweigh autograph/memorabilia. Each parallel\u2019s estimate = packs \u00f7 odds \u00f7 eligible subjects. A dash means unavailable; anchors with an infeasible implied pool are excluded. These are estimates from published odds anchored on known serial numbers, not manufacturer-confirmed totals."
+      }
+    },
+    {
+      "id": "2023_bowman_sapphire_edition_baseball:lab:o2",
+      "product_id": "2023_bowman_sapphire_edition_baseball",
+      "group_id": "2023_bowman_sapphire_edition_baseball:base:base-sapphire-chrome-prospects-base-cards-orange-sapphire:unnumbered",
+      "category": "Base",
+      "set_name": "Base Sapphire Chrome Prospects \u2014 Base Cards Orange Sapphire",
+      "section": "Base",
+      "measurement": {
+        "value": 49.56363636363637,
+        "kind": "estimate",
+        "unit": "cards",
+        "scope": "per_card"
+      },
+      "serial_limit": null,
+      "checklist_size": 150,
+      "notes": "Provisional authoritative Print Run Lab estimate; unrounded, not manufacturer-confirmed. Nominal numbered ceilings are separate evidence; checklist-wide equal-production assumption may not describe each subject.",
+      "source": {
+        "url": "https://chasingmajors.github.io/chasing-majors-maintenance-staging/authoritative-prv/2023_bowman_sapphire_edition_baseball/lab-result.json",
+        "checklist_url": "https://cdn.shopify.com/s/files/1/0662/9749/5709/files/2023BowmanSapphireBaseballChecklist.pdf",
+        "odds_url": "https://cdn.shopify.com/s/files/1/0662/9749/5709/files/2023_Bowman_Sapphire_Edition_Odds.pdf"
+      },
+      "issues": [],
+      "raw": {
+        "code": "2023_bowman_sapphire_edition_baseball",
+        "setType": "Base",
+        "setLine": "Base Sapphire Chrome Prospects",
+        "parallel": "Base Cards Orange Sapphire",
+        "printRun": 49.56363636363637,
+        "serial": "",
+        "subSetSize": 150,
+        "notes": "Provisional authoritative Print Run Lab estimate; unrounded, not manufacturer-confirmed. Nominal numbered ceilings are separate evidence; checklist-wide equal-production assumption may not describe each subject.",
+        "cmURL": "https://chasingmajors.github.io/chasing-majors-maintenance-staging/authoritative-prv/2023_bowman_sapphire_edition_baseball/lab-result.json"
+      },
+      "official_serial_limit": 50,
+      "calculation": {
+        "authority": "Print Run Lab",
+        "project_id": "prl_staging-bowman-sapphire-2023",
+        "revision_id": "stage-00f903f8e0ca1d20592ea5a0",
+        "snapshot_sha256": "9c1375a885934f8a346bcced0309bd9c534e3fb476d7ed9855f3d6e90ab32cb3",
+        "result_row_id": "o2",
+        "model": {
+          "version": "weighted-median-v1",
+          "engine_sha256": "6cdac98700c0f07d479532729a9515fe4e59f157e237570bd628c731aece3709"
+        },
+        "assumptions": "Default model: each format\u2019s pack total is the WEIGHTED MEDIAN of its numbered anchors\u2019 implied packs (implied packs = eligible subjects \u00d7 serial \u00d7 odds, less any fixed-format contribution), weighted by each anchor\u2019s influence so base/insert anchors outweigh autograph/memorabilia. Each parallel\u2019s estimate = packs \u00f7 odds \u00f7 eligible subjects. A dash means unavailable; anchors with an infeasible implied pool are excluded. These are estimates from published odds anchored on known serial numbers, not manufacturer-confirmed totals."
+      }
+    },
+    {
+      "id": "2023_bowman_sapphire_edition_baseball:lab:o3",
+      "product_id": "2023_bowman_sapphire_edition_baseball",
+      "group_id": "2023_bowman_sapphire_edition_baseball:base:base-sapphire-chrome-prospects-base-cards-purple-sapphire:unnumbered",
+      "category": "Base",
+      "set_name": "Base Sapphire Chrome Prospects \u2014 Base Cards Purple Sapphire",
+      "section": "Base",
+      "measurement": {
+        "value": 24.781818181818185,
+        "kind": "estimate",
+        "unit": "cards",
+        "scope": "per_card"
+      },
+      "serial_limit": null,
+      "checklist_size": 150,
+      "notes": "Provisional authoritative Print Run Lab estimate; unrounded, not manufacturer-confirmed. Nominal numbered ceilings are separate evidence; checklist-wide equal-production assumption may not describe each subject.",
+      "source": {
+        "url": "https://chasingmajors.github.io/chasing-majors-maintenance-staging/authoritative-prv/2023_bowman_sapphire_edition_baseball/lab-result.json",
+        "checklist_url": "https://cdn.shopify.com/s/files/1/0662/9749/5709/files/2023BowmanSapphireBaseballChecklist.pdf",
+        "odds_url": "https://cdn.shopify.com/s/files/1/0662/9749/5709/files/2023_Bowman_Sapphire_Edition_Odds.pdf"
+      },
+      "issues": [],
+      "raw": {
+        "code": "2023_bowman_sapphire_edition_baseball",
+        "setType": "Base",
+        "setLine": "Base Sapphire Chrome Prospects",
+        "parallel": "Base Cards Purple Sapphire",
+        "printRun": 24.781818181818185,
+        "serial": "",
+        "subSetSize": 150,
+        "notes": "Provisional authoritative Print Run Lab estimate; unrounded, not manufacturer-confirmed. Nominal numbered ceilings are separate evidence; checklist-wide equal-production assumption may not describe each subject.",
+        "cmURL": "https://chasingmajors.github.io/chasing-majors-maintenance-staging/authoritative-prv/2023_bowman_sapphire_edition_baseball/lab-result.json"
+      },
+      "official_serial_limit": 25,
+      "calculation": {
+        "authority": "Print Run Lab",
+        "project_id": "prl_staging-bowman-sapphire-2023",
+        "revision_id": "stage-00f903f8e0ca1d20592ea5a0",
+        "snapshot_sha256": "9c1375a885934f8a346bcced0309bd9c534e3fb476d7ed9855f3d6e90ab32cb3",
+        "result_row_id": "o3",
+        "model": {
+          "version": "weighted-median-v1",
+          "engine_sha256": "6cdac98700c0f07d479532729a9515fe4e59f157e237570bd628c731aece3709"
+        },
+        "assumptions": "Default model: each format\u2019s pack total is the WEIGHTED MEDIAN of its numbered anchors\u2019 implied packs (implied packs = eligible subjects \u00d7 serial \u00d7 odds, less any fixed-format contribution), weighted by each anchor\u2019s influence so base/insert anchors outweigh autograph/memorabilia. Each parallel\u2019s estimate = packs \u00f7 odds \u00f7 eligible subjects. A dash means unavailable; anchors with an infeasible implied pool are excluded. These are estimates from published odds anchored on known serial numbers, not manufacturer-confirmed totals."
+      }
+    },
+    {
+      "id": "2023_bowman_sapphire_edition_baseball:lab:o4",
+      "product_id": "2023_bowman_sapphire_edition_baseball",
+      "group_id": "2023_bowman_sapphire_edition_baseball:base:base-sapphire-chrome-prospects-base-cards-red-sapphire:unnumbered",
+      "category": "Base",
+      "set_name": "Base Sapphire Chrome Prospects \u2014 Base Cards Red Sapphire",
+      "section": "Base",
+      "measurement": {
+        "value": 10.096296296296295,
+        "kind": "estimate",
+        "unit": "cards",
+        "scope": "per_card"
+      },
+      "serial_limit": null,
+      "checklist_size": 150,
+      "notes": "Provisional authoritative Print Run Lab estimate; unrounded, not manufacturer-confirmed. Nominal numbered ceilings are separate evidence; checklist-wide equal-production assumption may not describe each subject.",
+      "source": {
+        "url": "https://chasingmajors.github.io/chasing-majors-maintenance-staging/authoritative-prv/2023_bowman_sapphire_edition_baseball/lab-result.json",
+        "checklist_url": "https://cdn.shopify.com/s/files/1/0662/9749/5709/files/2023BowmanSapphireBaseballChecklist.pdf",
+        "odds_url": "https://cdn.shopify.com/s/files/1/0662/9749/5709/files/2023_Bowman_Sapphire_Edition_Odds.pdf"
+      },
+      "issues": [],
+      "raw": {
+        "code": "2023_bowman_sapphire_edition_baseball",
+        "setType": "Base",
+        "setLine": "Base Sapphire Chrome Prospects",
+        "parallel": "Base Cards Red Sapphire",
+        "printRun": 10.096296296296295,
+        "serial": "",
+        "subSetSize": 150,
+        "notes": "Provisional authoritative Print Run Lab estimate; unrounded, not manufacturer-confirmed. Nominal numbered ceilings are separate evidence; checklist-wide equal-production assumption may not describe each subject.",
+        "cmURL": "https://chasingmajors.github.io/chasing-majors-maintenance-staging/authoritative-prv/2023_bowman_sapphire_edition_baseball/lab-result.json"
+      },
+      "official_serial_limit": 10,
+      "calculation": {
+        "authority": "Print Run Lab",
+        "project_id": "prl_staging-bowman-sapphire-2023",
+        "revision_id": "stage-00f903f8e0ca1d20592ea5a0",
+        "snapshot_sha256": "9c1375a885934f8a346bcced0309bd9c534e3fb476d7ed9855f3d6e90ab32cb3",
+        "result_row_id": "o4",
+        "model": {
+          "version": "weighted-median-v1",
+          "engine_sha256": "6cdac98700c0f07d479532729a9515fe4e59f157e237570bd628c731aece3709"
+        },
+        "assumptions": "Default model: each format\u2019s pack total is the WEIGHTED MEDIAN of its numbered anchors\u2019 implied packs (implied packs = eligible subjects \u00d7 serial \u00d7 odds, less any fixed-format contribution), weighted by each anchor\u2019s influence so base/insert anchors outweigh autograph/memorabilia. Each parallel\u2019s estimate = packs \u00f7 odds \u00f7 eligible subjects. A dash means unavailable; anchors with an infeasible implied pool are excluded. These are estimates from published odds anchored on known serial numbers, not manufacturer-confirmed totals."
+      }
+    },
+    {
+      "id": "2023_bowman_sapphire_edition_baseball:lab:o5",
+      "product_id": "2023_bowman_sapphire_edition_baseball",
+      "group_id": "2023_bowman_sapphire_edition_baseball:base:base-sapphire-chrome-prospects-base-cards-padparadscha-sapphire:unnumbered",
+      "category": "Base",
+      "set_name": "Base Sapphire Chrome Prospects \u2014 Base Cards Padparadscha Sapphire",
+      "section": "Base",
+      "measurement": {
+        "value": 1.0365019011406844,
+        "kind": "estimate",
+        "unit": "cards",
+        "scope": "per_card"
+      },
+      "serial_limit": null,
+      "checklist_size": 150,
+      "notes": "Provisional authoritative Print Run Lab estimate; unrounded, not manufacturer-confirmed. Nominal numbered ceilings are separate evidence; checklist-wide equal-production assumption may not describe each subject.",
+      "source": {
+        "url": "https://chasingmajors.github.io/chasing-majors-maintenance-staging/authoritative-prv/2023_bowman_sapphire_edition_baseball/lab-result.json",
+        "checklist_url": "https://cdn.shopify.com/s/files/1/0662/9749/5709/files/2023BowmanSapphireBaseballChecklist.pdf",
+        "odds_url": "https://cdn.shopify.com/s/files/1/0662/9749/5709/files/2023_Bowman_Sapphire_Edition_Odds.pdf"
+      },
+      "issues": [],
+      "raw": {
+        "code": "2023_bowman_sapphire_edition_baseball",
+        "setType": "Base",
+        "setLine": "Base Sapphire Chrome Prospects",
+        "parallel": "Base Cards Padparadscha Sapphire",
+        "printRun": 1.0365019011406844,
+        "serial": "",
+        "subSetSize": 150,
+        "notes": "Provisional authoritative Print Run Lab estimate; unrounded, not manufacturer-confirmed. Nominal numbered ceilings are separate evidence; checklist-wide equal-production assumption may not describe each subject.",
+        "cmURL": "https://chasingmajors.github.io/chasing-majors-maintenance-staging/authoritative-prv/2023_bowman_sapphire_edition_baseball/lab-result.json"
+      },
+      "official_serial_limit": 1,
+      "calculation": {
+        "authority": "Print Run Lab",
+        "project_id": "prl_staging-bowman-sapphire-2023",
+        "revision_id": "stage-00f903f8e0ca1d20592ea5a0",
+        "snapshot_sha256": "9c1375a885934f8a346bcced0309bd9c534e3fb476d7ed9855f3d6e90ab32cb3",
+        "result_row_id": "o5",
+        "model": {
+          "version": "weighted-median-v1",
+          "engine_sha256": "6cdac98700c0f07d479532729a9515fe4e59f157e237570bd628c731aece3709"
+        },
+        "assumptions": "Default model: each format\u2019s pack total is the WEIGHTED MEDIAN of its numbered anchors\u2019 implied packs (implied packs = eligible subjects \u00d7 serial \u00d7 odds, less any fixed-format contribution), weighted by each anchor\u2019s influence so base/insert anchors outweigh autograph/memorabilia. Each parallel\u2019s estimate = packs \u00f7 odds \u00f7 eligible subjects. A dash means unavailable; anchors with an infeasible implied pool are excluded. These are estimates from published odds anchored on known serial numbers, not manufacturer-confirmed totals."
+      }
+    },
+    {
+      "id": "2023_bowman_sapphire_edition_baseball:lab:o6",
+      "product_id": "2023_bowman_sapphire_edition_baseball",
+      "group_id": "2023_bowman_sapphire_edition_baseball:auto:chrome-prospect-autographs-chrome-prospects-auto:unnumbered",
+      "category": "Autographs",
+      "set_name": "Chrome Prospect Autographs \u2014 Chrome Prospects Auto",
+      "section": "Auto",
+      "measurement": {
+        "value": 201.42857142857144,
+        "kind": "estimate",
+        "unit": "cards",
+        "scope": "per_card"
+      },
+      "serial_limit": null,
+      "checklist_size": 29,
+      "notes": "Provisional authoritative Print Run Lab estimate; unrounded, not manufacturer-confirmed. Nominal numbered ceilings are separate evidence; checklist-wide equal-production assumption may not describe each subject.",
+      "source": {
+        "url": "https://chasingmajors.github.io/chasing-majors-maintenance-staging/authoritative-prv/2023_bowman_sapphire_edition_baseball/lab-result.json",
+        "checklist_url": "https://cdn.shopify.com/s/files/1/0662/9749/5709/files/2023BowmanSapphireBaseballChecklist.pdf",
+        "odds_url": "https://cdn.shopify.com/s/files/1/0662/9749/5709/files/2023_Bowman_Sapphire_Edition_Odds.pdf"
+      },
+      "issues": [],
+      "raw": {
+        "code": "2023_bowman_sapphire_edition_baseball",
+        "setType": "Auto",
+        "setLine": "Chrome Prospect Autographs",
+        "parallel": "Chrome Prospects Auto",
+        "printRun": 201.42857142857144,
+        "serial": "",
+        "subSetSize": 29,
+        "notes": "Provisional authoritative Print Run Lab estimate; unrounded, not manufacturer-confirmed. Nominal numbered ceilings are separate evidence; checklist-wide equal-production assumption may not describe each subject.",
+        "cmURL": "https://chasingmajors.github.io/chasing-majors-maintenance-staging/authoritative-prv/2023_bowman_sapphire_edition_baseball/lab-result.json"
+      },
+      "official_serial_limit": null,
+      "calculation": {
+        "authority": "Print Run Lab",
+        "project_id": "prl_staging-bowman-sapphire-2023",
+        "revision_id": "stage-00f903f8e0ca1d20592ea5a0",
+        "snapshot_sha256": "9c1375a885934f8a346bcced0309bd9c534e3fb476d7ed9855f3d6e90ab32cb3",
+        "result_row_id": "o6",
+        "model": {
+          "version": "weighted-median-v1",
+          "engine_sha256": "6cdac98700c0f07d479532729a9515fe4e59f157e237570bd628c731aece3709"
+        },
+        "assumptions": "Default model: each format\u2019s pack total is the WEIGHTED MEDIAN of its numbered anchors\u2019 implied packs (implied packs = eligible subjects \u00d7 serial \u00d7 odds, less any fixed-format contribution), weighted by each anchor\u2019s influence so base/insert anchors outweigh autograph/memorabilia. Each parallel\u2019s estimate = packs \u00f7 odds \u00f7 eligible subjects. A dash means unavailable; anchors with an infeasible implied pool are excluded. These are estimates from published odds anchored on known serial numbers, not manufacturer-confirmed totals."
+      }
+    },
+    {
+      "id": "2023_bowman_sapphire_edition_baseball:lab:o7",
+      "product_id": "2023_bowman_sapphire_edition_baseball",
+      "group_id": "2023_bowman_sapphire_edition_baseball:auto:chrome-prospect-autographs-chrome-prospects-auto-aqua-sapphire:unnumbered",
+      "category": "Autographs",
+      "set_name": "Chrome Prospect Autographs \u2014 Chrome Prospects Auto Aqua Sapphire",
+      "section": "Auto",
+      "measurement": {
+        "value": 53.20754716981132,
+        "kind": "estimate",
+        "unit": "cards",
+        "scope": "per_card"
+      },
+      "serial_limit": null,
+      "checklist_size": 29,
+      "notes": "Provisional authoritative Print Run Lab estimate; unrounded, not manufacturer-confirmed. Nominal numbered ceilings are separate evidence; checklist-wide equal-production assumption may not describe each subject.",
+      "source": {
+        "url": "https://chasingmajors.github.io/chasing-majors-maintenance-staging/authoritative-prv/2023_bowman_sapphire_edition_baseball/lab-result.json",
+        "checklist_url": "https://cdn.shopify.com/s/files/1/0662/9749/5709/files/2023BowmanSapphireBaseballChecklist.pdf",
+        "odds_url": "https://cdn.shopify.com/s/files/1/0662/9749/5709/files/2023_Bowman_Sapphire_Edition_Odds.pdf"
+      },
+      "issues": [],
+      "raw": {
+        "code": "2023_bowman_sapphire_edition_baseball",
+        "setType": "Auto",
+        "setLine": "Chrome Prospect Autographs",
+        "parallel": "Chrome Prospects Auto Aqua Sapphire",
+        "printRun": 53.20754716981132,
+        "serial": "",
+        "subSetSize": 29,
+        "notes": "Provisional authoritative Print Run Lab estimate; unrounded, not manufacturer-confirmed. Nominal numbered ceilings are separate evidence; checklist-wide equal-production assumption may not describe each subject.",
+        "cmURL": "https://chasingmajors.github.io/chasing-majors-maintenance-staging/authoritative-prv/2023_bowman_sapphire_edition_baseball/lab-result.json"
+      },
+      "official_serial_limit": 99,
+      "calculation": {
+        "authority": "Print Run Lab",
+        "project_id": "prl_staging-bowman-sapphire-2023",
+        "revision_id": "stage-00f903f8e0ca1d20592ea5a0",
+        "snapshot_sha256": "9c1375a885934f8a346bcced0309bd9c534e3fb476d7ed9855f3d6e90ab32cb3",
+        "result_row_id": "o7",
+        "model": {
+          "version": "weighted-median-v1",
+          "engine_sha256": "6cdac98700c0f07d479532729a9515fe4e59f157e237570bd628c731aece3709"
+        },
+        "assumptions": "Default model: each format\u2019s pack total is the WEIGHTED MEDIAN of its numbered anchors\u2019 implied packs (implied packs = eligible subjects \u00d7 serial \u00d7 odds, less any fixed-format contribution), weighted by each anchor\u2019s influence so base/insert anchors outweigh autograph/memorabilia. Each parallel\u2019s estimate = packs \u00f7 odds \u00f7 eligible subjects. A dash means unavailable; anchors with an infeasible implied pool are excluded. These are estimates from published odds anchored on known serial numbers, not manufacturer-confirmed totals."
+      }
+    },
+    {
+      "id": "2023_bowman_sapphire_edition_baseball:lab:o8",
+      "product_id": "2023_bowman_sapphire_edition_baseball",
+      "group_id": "2023_bowman_sapphire_edition_baseball:auto:chrome-prospect-autographs-chrome-prospects-auto-green-sapphire:unnumbered",
+      "category": "Autographs",
+      "set_name": "Chrome Prospect Autographs \u2014 Chrome Prospects Auto Green Sapphire",
+      "section": "Auto",
+      "measurement": {
+        "value": 49.473684210526315,
+        "kind": "estimate",
+        "unit": "cards",
+        "scope": "per_card"
+      },
+      "serial_limit": null,
+      "checklist_size": 29,
+      "notes": "Provisional authoritative Print Run Lab estimate; unrounded, not manufacturer-confirmed. Nominal numbered ceilings are separate evidence; checklist-wide equal-production assumption may not describe each subject.",
+      "source": {
+        "url": "https://chasingmajors.github.io/chasing-majors-maintenance-staging/authoritative-prv/2023_bowman_sapphire_edition_baseball/lab-result.json",
+        "checklist_url": "https://cdn.shopify.com/s/files/1/0662/9749/5709/files/2023BowmanSapphireBaseballChecklist.pdf",
+        "odds_url": "https://cdn.shopify.com/s/files/1/0662/9749/5709/files/2023_Bowman_Sapphire_Edition_Odds.pdf"
+      },
+      "issues": [],
+      "raw": {
+        "code": "2023_bowman_sapphire_edition_baseball",
+        "setType": "Auto",
+        "setLine": "Chrome Prospect Autographs",
+        "parallel": "Chrome Prospects Auto Green Sapphire",
+        "printRun": 49.473684210526315,
+        "serial": "",
+        "subSetSize": 29,
+        "notes": "Provisional authoritative Print Run Lab estimate; unrounded, not manufacturer-confirmed. Nominal numbered ceilings are separate evidence; checklist-wide equal-production assumption may not describe each subject.",
+        "cmURL": "https://chasingmajors.github.io/chasing-majors-maintenance-staging/authoritative-prv/2023_bowman_sapphire_edition_baseball/lab-result.json"
+      },
+      "official_serial_limit": 50,
+      "calculation": {
+        "authority": "Print Run Lab",
+        "project_id": "prl_staging-bowman-sapphire-2023",
+        "revision_id": "stage-00f903f8e0ca1d20592ea5a0",
+        "snapshot_sha256": "9c1375a885934f8a346bcced0309bd9c534e3fb476d7ed9855f3d6e90ab32cb3",
+        "result_row_id": "o8",
+        "model": {
+          "version": "weighted-median-v1",
+          "engine_sha256": "6cdac98700c0f07d479532729a9515fe4e59f157e237570bd628c731aece3709"
+        },
+        "assumptions": "Default model: each format\u2019s pack total is the WEIGHTED MEDIAN of its numbered anchors\u2019 implied packs (implied packs = eligible subjects \u00d7 serial \u00d7 odds, less any fixed-format contribution), weighted by each anchor\u2019s influence so base/insert anchors outweigh autograph/memorabilia. Each parallel\u2019s estimate = packs \u00f7 odds \u00f7 eligible subjects. A dash means unavailable; anchors with an infeasible implied pool are excluded. These are estimates from published odds anchored on known serial numbers, not manufacturer-confirmed totals."
+      }
+    },
+    {
+      "id": "2023_bowman_sapphire_edition_baseball:lab:o9",
+      "product_id": "2023_bowman_sapphire_edition_baseball",
+      "group_id": "2023_bowman_sapphire_edition_baseball:auto:chrome-prospect-autographs-chrome-prospects-auto-orange-sapphire:unnumbered",
+      "category": "Autographs",
+      "set_name": "Chrome Prospect Autographs \u2014 Chrome Prospects Auto Orange Sapphire",
+      "section": "Auto",
+      "measurement": {
+        "value": 25.17857142857143,
+        "kind": "estimate",
+        "unit": "cards",
+        "scope": "per_card"
+      },
+      "serial_limit": null,
+      "checklist_size": 29,
+      "notes": "Provisional authoritative Print Run Lab estimate; unrounded, not manufacturer-confirmed. Nominal numbered ceilings are separate evidence; checklist-wide equal-production assumption may not describe each subject.",
+      "source": {
+        "url": "https://chasingmajors.github.io/chasing-majors-maintenance-staging/authoritative-prv/2023_bowman_sapphire_edition_baseball/lab-result.json",
+        "checklist_url": "https://cdn.shopify.com/s/files/1/0662/9749/5709/files/2023BowmanSapphireBaseballChecklist.pdf",
+        "odds_url": "https://cdn.shopify.com/s/files/1/0662/9749/5709/files/2023_Bowman_Sapphire_Edition_Odds.pdf"
+      },
+      "issues": [],
+      "raw": {
+        "code": "2023_bowman_sapphire_edition_baseball",
+        "setType": "Auto",
+        "setLine": "Chrome Prospect Autographs",
+        "parallel": "Chrome Prospects Auto Orange Sapphire",
+        "printRun": 25.17857142857143,
+        "serial": "",
+        "subSetSize": 29,
+        "notes": "Provisional authoritative Print Run Lab estimate; unrounded, not manufacturer-confirmed. Nominal numbered ceilings are separate evidence; checklist-wide equal-production assumption may not describe each subject.",
+        "cmURL": "https://chasingmajors.github.io/chasing-majors-maintenance-staging/authoritative-prv/2023_bowman_sapphire_edition_baseball/lab-result.json"
+      },
+      "official_serial_limit": 25,
+      "calculation": {
+        "authority": "Print Run Lab",
+        "project_id": "prl_staging-bowman-sapphire-2023",
+        "revision_id": "stage-00f903f8e0ca1d20592ea5a0",
+        "snapshot_sha256": "9c1375a885934f8a346bcced0309bd9c534e3fb476d7ed9855f3d6e90ab32cb3",
+        "result_row_id": "o9",
+        "model": {
+          "version": "weighted-median-v1",
+          "engine_sha256": "6cdac98700c0f07d479532729a9515fe4e59f157e237570bd628c731aece3709"
+        },
+        "assumptions": "Default model: each format\u2019s pack total is the WEIGHTED MEDIAN of its numbered anchors\u2019 implied packs (implied packs = eligible subjects \u00d7 serial \u00d7 odds, less any fixed-format contribution), weighted by each anchor\u2019s influence so base/insert anchors outweigh autograph/memorabilia. Each parallel\u2019s estimate = packs \u00f7 odds \u00f7 eligible subjects. A dash means unavailable; anchors with an infeasible implied pool are excluded. These are estimates from published odds anchored on known serial numbers, not manufacturer-confirmed totals."
+      }
+    },
+    {
+      "id": "2023_bowman_sapphire_edition_baseball:lab:o10",
+      "product_id": "2023_bowman_sapphire_edition_baseball",
+      "group_id": "2023_bowman_sapphire_edition_baseball:auto:chrome-prospect-autographs-chrome-prospects-auto-purple-sapphire:unnumbered",
+      "category": "Autographs",
+      "set_name": "Chrome Prospect Autographs \u2014 Chrome Prospects Auto Purple Sapphire",
+      "section": "Auto",
+      "measurement": {
+        "value": 10.10752688172043,
+        "kind": "estimate",
+        "unit": "cards",
+        "scope": "per_card"
+      },
+      "serial_limit": null,
+      "checklist_size": 29,
+      "notes": "Provisional authoritative Print Run Lab estimate; unrounded, not manufacturer-confirmed. Nominal numbered ceilings are separate evidence; checklist-wide equal-production assumption may not describe each subject.",
+      "source": {
+        "url": "https://chasingmajors.github.io/chasing-majors-maintenance-staging/authoritative-prv/2023_bowman_sapphire_edition_baseball/lab-result.json",
+        "checklist_url": "https://cdn.shopify.com/s/files/1/0662/9749/5709/files/2023BowmanSapphireBaseballChecklist.pdf",
+        "odds_url": "https://cdn.shopify.com/s/files/1/0662/9749/5709/files/2023_Bowman_Sapphire_Edition_Odds.pdf"
+      },
+      "issues": [],
+      "raw": {
+        "code": "2023_bowman_sapphire_edition_baseball",
+        "setType": "Auto",
+        "setLine": "Chrome Prospect Autographs",
+        "parallel": "Chrome Prospects Auto Purple Sapphire",
+        "printRun": 10.10752688172043,
+        "serial": "",
+        "subSetSize": 29,
+        "notes": "Provisional authoritative Print Run Lab estimate; unrounded, not manufacturer-confirmed. Nominal numbered ceilings are separate evidence; checklist-wide equal-production assumption may not describe each subject.",
+        "cmURL": "https://chasingmajors.github.io/chasing-majors-maintenance-staging/authoritative-prv/2023_bowman_sapphire_edition_baseball/lab-result.json"
+      },
+      "official_serial_limit": 10,
+      "calculation": {
+        "authority": "Print Run Lab",
+        "project_id": "prl_staging-bowman-sapphire-2023",
+        "revision_id": "stage-00f903f8e0ca1d20592ea5a0",
+        "snapshot_sha256": "9c1375a885934f8a346bcced0309bd9c534e3fb476d7ed9855f3d6e90ab32cb3",
+        "result_row_id": "o10",
+        "model": {
+          "version": "weighted-median-v1",
+          "engine_sha256": "6cdac98700c0f07d479532729a9515fe4e59f157e237570bd628c731aece3709"
+        },
+        "assumptions": "Default model: each format\u2019s pack total is the WEIGHTED MEDIAN of its numbered anchors\u2019 implied packs (implied packs = eligible subjects \u00d7 serial \u00d7 odds, less any fixed-format contribution), weighted by each anchor\u2019s influence so base/insert anchors outweigh autograph/memorabilia. Each parallel\u2019s estimate = packs \u00f7 odds \u00f7 eligible subjects. A dash means unavailable; anchors with an infeasible implied pool are excluded. These are estimates from published odds anchored on known serial numbers, not manufacturer-confirmed totals."
+      }
+    },
+    {
+      "id": "2023_bowman_sapphire_edition_baseball:lab:o11",
+      "product_id": "2023_bowman_sapphire_edition_baseball",
+      "group_id": "2023_bowman_sapphire_edition_baseball:auto:chrome-prospect-autographs-chrome-prospects-auto-red-sapphire:unnumbered",
+      "category": "Autographs",
+      "set_name": "Chrome Prospect Autographs \u2014 Chrome Prospects Auto Red Sapphire",
+      "section": "Auto",
+      "measurement": {
+        "value": 5.017793594306049,
+        "kind": "estimate",
+        "unit": "cards",
+        "scope": "per_card"
+      },
+      "serial_limit": null,
+      "checklist_size": 29,
+      "notes": "Provisional authoritative Print Run Lab estimate; unrounded, not manufacturer-confirmed. Nominal numbered ceilings are separate evidence; checklist-wide equal-production assumption may not describe each subject.",
+      "source": {
+        "url": "https://chasingmajors.github.io/chasing-majors-maintenance-staging/authoritative-prv/2023_bowman_sapphire_edition_baseball/lab-result.json",
+        "checklist_url": "https://cdn.shopify.com/s/files/1/0662/9749/5709/files/2023BowmanSapphireBaseballChecklist.pdf",
+        "odds_url": "https://cdn.shopify.com/s/files/1/0662/9749/5709/files/2023_Bowman_Sapphire_Edition_Odds.pdf"
+      },
+      "issues": [],
+      "raw": {
+        "code": "2023_bowman_sapphire_edition_baseball",
+        "setType": "Auto",
+        "setLine": "Chrome Prospect Autographs",
+        "parallel": "Chrome Prospects Auto Red Sapphire",
+        "printRun": 5.017793594306049,
+        "serial": "",
+        "subSetSize": 29,
+        "notes": "Provisional authoritative Print Run Lab estimate; unrounded, not manufacturer-confirmed. Nominal numbered ceilings are separate evidence; checklist-wide equal-production assumption may not describe each subject.",
+        "cmURL": "https://chasingmajors.github.io/chasing-majors-maintenance-staging/authoritative-prv/2023_bowman_sapphire_edition_baseball/lab-result.json"
+      },
+      "official_serial_limit": 5,
+      "calculation": {
+        "authority": "Print Run Lab",
+        "project_id": "prl_staging-bowman-sapphire-2023",
+        "revision_id": "stage-00f903f8e0ca1d20592ea5a0",
+        "snapshot_sha256": "9c1375a885934f8a346bcced0309bd9c534e3fb476d7ed9855f3d6e90ab32cb3",
+        "result_row_id": "o11",
+        "model": {
+          "version": "weighted-median-v1",
+          "engine_sha256": "6cdac98700c0f07d479532729a9515fe4e59f157e237570bd628c731aece3709"
+        },
+        "assumptions": "Default model: each format\u2019s pack total is the WEIGHTED MEDIAN of its numbered anchors\u2019 implied packs (implied packs = eligible subjects \u00d7 serial \u00d7 odds, less any fixed-format contribution), weighted by each anchor\u2019s influence so base/insert anchors outweigh autograph/memorabilia. Each parallel\u2019s estimate = packs \u00f7 odds \u00f7 eligible subjects. A dash means unavailable; anchors with an infeasible implied pool are excluded. These are estimates from published odds anchored on known serial numbers, not manufacturer-confirmed totals."
+      }
+    },
+    {
+      "id": "2023_bowman_sapphire_edition_baseball:lab:o12",
+      "product_id": "2023_bowman_sapphire_edition_baseball",
+      "group_id": "2023_bowman_sapphire_edition_baseball:auto:chrome-prospect-autographs-chrome-prospects-auto-padparadscha-sapphire:unnumbered",
+      "category": "Autographs",
+      "set_name": "Chrome Prospect Autographs \u2014 Chrome Prospects Auto Padparadscha Sapphire",
+      "section": "Auto",
+      "measurement": {
+        "value": 0.9964664310954063,
+        "kind": "estimate",
+        "unit": "cards",
+        "scope": "per_card"
+      },
+      "serial_limit": null,
+      "checklist_size": 29,
+      "notes": "Provisional authoritative Print Run Lab estimate; unrounded, not manufacturer-confirmed. Nominal numbered ceilings are separate evidence; checklist-wide equal-production assumption may not describe each subject.",
+      "source": {
+        "url": "https://chasingmajors.github.io/chasing-majors-maintenance-staging/authoritative-prv/2023_bowman_sapphire_edition_baseball/lab-result.json",
+        "checklist_url": "https://cdn.shopify.com/s/files/1/0662/9749/5709/files/2023BowmanSapphireBaseballChecklist.pdf",
+        "odds_url": "https://cdn.shopify.com/s/files/1/0662/9749/5709/files/2023_Bowman_Sapphire_Edition_Odds.pdf"
+      },
+      "issues": [],
+      "raw": {
+        "code": "2023_bowman_sapphire_edition_baseball",
+        "setType": "Auto",
+        "setLine": "Chrome Prospect Autographs",
+        "parallel": "Chrome Prospects Auto Padparadscha Sapphire",
+        "printRun": 0.9964664310954063,
+        "serial": "",
+        "subSetSize": 29,
+        "notes": "Provisional authoritative Print Run Lab estimate; unrounded, not manufacturer-confirmed. Nominal numbered ceilings are separate evidence; checklist-wide equal-production assumption may not describe each subject.",
+        "cmURL": "https://chasingmajors.github.io/chasing-majors-maintenance-staging/authoritative-prv/2023_bowman_sapphire_edition_baseball/lab-result.json"
+      },
+      "official_serial_limit": 1,
+      "calculation": {
+        "authority": "Print Run Lab",
+        "project_id": "prl_staging-bowman-sapphire-2023",
+        "revision_id": "stage-00f903f8e0ca1d20592ea5a0",
+        "snapshot_sha256": "9c1375a885934f8a346bcced0309bd9c534e3fb476d7ed9855f3d6e90ab32cb3",
+        "result_row_id": "o12",
+        "model": {
+          "version": "weighted-median-v1",
+          "engine_sha256": "6cdac98700c0f07d479532729a9515fe4e59f157e237570bd628c731aece3709"
+        },
+        "assumptions": "Default model: each format\u2019s pack total is the WEIGHTED MEDIAN of its numbered anchors\u2019 implied packs (implied packs = eligible subjects \u00d7 serial \u00d7 odds, less any fixed-format contribution), weighted by each anchor\u2019s influence so base/insert anchors outweigh autograph/memorabilia. Each parallel\u2019s estimate = packs \u00f7 odds \u00f7 eligible subjects. A dash means unavailable; anchors with an infeasible implied pool are excluded. These are estimates from published odds anchored on known serial numbers, not manufacturer-confirmed totals."
+      }
+    }
+  ],
+  "calculation_provenance": {
+    "method": "print_run_lab_estimates_v1",
+    "authority": "Print Run Lab",
+    "status": "staging-published-revision",
+    "project_id": "prl_staging-bowman-sapphire-2023",
+    "revision_id": "stage-00f903f8e0ca1d20592ea5a0",
+    "snapshot_sha256": "9c1375a885934f8a346bcced0309bd9c534e3fb476d7ed9855f3d6e90ab32cb3",
+    "model": {
+      "version": "weighted-median-v1",
+      "engine_sha256": "6cdac98700c0f07d479532729a9515fe4e59f157e237570bd628c731aece3709"
+    },
+    "cv_sha256": "668d78c1fe9f073354d4a1aa0891f16b82f619a92e5b04ddcc40bc60f54252aa",
+    "source_documents": {
+      "checklist": {
+        "url": "https://cdn.shopify.com/s/files/1/0662/9749/5709/files/2023BowmanSapphireBaseballChecklist.pdf",
+        "sha256": "f8b0abe788b583c79477b4337c9e5f653701d1c9b78e13e891f1554e1902bb34",
+        "bytes": 47811,
+        "pages": 4,
+        "http_status": 200,
+        "acquisition": "live_https",
+        "extraction": "pdfplumber_words_xy_v1",
+        "extracted_sha256": "45b50004b8e39600f3dd7e530bea87253fe7dbbe09f08ce328a357590d78596b"
+      },
+      "odds": {
+        "url": "https://cdn.shopify.com/s/files/1/0662/9749/5709/files/2023_Bowman_Sapphire_Edition_Odds.pdf",
+        "sha256": "57fb28bfadcdd6c91df69c743fb064bc27c1da6e4ebe741c5eabc7c5a6b31163",
+        "bytes": 251397,
+        "pages": 1,
+        "http_status": 200,
+        "acquisition": "live_https",
+        "extraction": "pdfplumber_words_xy_v1",
+        "extracted_sha256": "994639765af98afc89709d1d595a27e8e9f370520b0032708c1f98c64fc087f6"
+      }
+    },
+    "source_membership_assumption": "All listed subjects eligible in each mapped parallel; individual autograph availability can vary.",
+    "numbering_policy": "Only official NumberedTo values are anchors. Blank ordinary autograph is not /199. Estimated packed counts remain distinct from nominal ceilings.",
+    "formats": [
+      "5121 - PACK ODDS"
+    ],
+    "stability_rule": {
+      "name": "leave-one-anchor-out stability",
+      "max_relative_change": 0.05,
+      "anchors_tested": 12,
+      "invalid_refits": [],
+      "relic_handling": "hold"
+    },
+    "validation_receipt": {
+      "status": "PASS",
+      "validator": "authoritative-staging-v1",
+      "artifact_sha256": "9c1375a885934f8a346bcced0309bd9c534e3fb476d7ed9855f3d6e90ab32cb3",
+      "cv_sha256": "668d78c1fe9f073354d4a1aa0891f16b82f619a92e5b04ddcc40bc60f54252aa",
+      "engine_sha256": "6cdac98700c0f07d479532729a9515fe4e59f157e237570bd628c731aece3709",
+      "stability": {
+        "name": "leave-one-anchor-out stability",
+        "max_relative_change": 0.05,
+        "anchors_tested": 12,
+        "invalid_refits": [],
+        "relic_handling": "hold"
+      },
+      "admitted_rows": [
+        "o0",
+        "o1",
+        "o2",
+        "o3",
+        "o4",
+        "o5",
+        "o6",
+        "o7",
+        "o8",
+        "o9",
+        "o10",
+        "o11",
+        "o12"
+      ],
+      "scope": "isolated staging; no production admission"
+    },
+    "assumptions": "Default model: each format\u2019s pack total is the WEIGHTED MEDIAN of its numbered anchors\u2019 implied packs (implied packs = eligible subjects \u00d7 serial \u00d7 odds, less any fixed-format contribution), weighted by each anchor\u2019s influence so base/insert anchors outweigh autograph/memorabilia. Each parallel\u2019s estimate = packs \u00f7 odds \u00f7 eligible subjects. A dash means unavailable; anchors with an infeasible implied pool are excluded. These are estimates from published odds anchored on known serial numbers, not manufacturer-confirmed totals.",
+    "pack_totals": [
+      81780
+    ],
+    "independent_recalculation": false,
+    "superseded_source_rows": {
+      "reason": "STAGING ONLY: consume authoritative frozen Lab result; historical artifact and production source unchanged.",
+      "source_fingerprint": "6478c7ba656097741ba7a4592ef9360efad0a20faeefadaca8ebc64108c8d14e",
+      "rows": [
+        {
+          "code": "2023_Bowman_Sapphire_Baseball",
+          "setType": "Autograph",
+          "setLine": "Prospects Autograph",
+          "printRun": 200,
+          "serial": "",
+          "subSetSize": 29,
+          "notes": "",
+          "cmURL": ""
+        },
+        {
+          "code": "2023_Bowman_Sapphire_Baseball",
+          "setType": "Base",
+          "setLine": "[Base]",
+          "printRun": 1900,
+          "serial": "",
+          "subSetSize": 150,
+          "notes": "",
+          "cmURL": ""
+        }
+      ]
+    }
+  },
+  "quality": {
+    "records": 13,
+    "flagged_records": 0
+  },
+  "checklist": {
+    "code": "2023_bowman_sapphire_edition_baseball",
+    "sport": "baseball"
+  },
+  "source_revision": "2026-11-20T19:20:17.325Z"
+}
